@@ -1,14 +1,13 @@
-# WIA Code Mobile App
-
-Mobile application for WIA Code System - Available for iOS and Android
+# WIA Pin Code Mobile App
+Mobile application for WIA Pin Code System - Available for iOS and Android
 
 ## Features
-- Real-time GPS to WIA Code conversion
+- Real-time GPS to WIA Pin Code conversion
 - QR Code generation and scanning
 - Offline functionality
 - Multi-language support (211+ languages)
-- Emergency SOS with WIA Code
-- Share location via WIA Code
+- Emergency SOS with WIA Pin Code
+- Share location via WIA Pin Code
 
 ## Technology Stack
 - React Native
@@ -17,35 +16,29 @@ Mobile application for WIA Code System - Available for iOS and Android
 - AsyncStorage for offline data
 
 ## Installation
-
 ### Prerequisites
 - Node.js 14+
 - npm or yarn
 - Expo CLI
 
 ### Setup
-```bash
 # Clone repository
-git clone https://github.com/wia-family/wia-code-mobile.git
+git clone https://github.com/wia-family/wia-pincode-mobile.git
 
 # Install dependencies
 npm install
 
-# Start development server
-expo start
-```
-
-## Build
-```bash
-# iOS
+Build
+bash# iOS
 expo build:ios
 
 # Android
 expo build:android
-```
-
-## Screenshots
+Screenshots
 Coming soon...
-
-## License
+License
 MIT License
+
+
+# Start development server
+expo start
