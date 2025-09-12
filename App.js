@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>WIA Code</Text>
+      <Text style={styles.title}>WIA Pin Code</Text>
       <Text style={styles.subtitle}>9-digit address for everyone</Text>
     </View>
   );
